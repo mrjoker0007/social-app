@@ -1,0 +1,12 @@
+.header{
+    height: 200px;
+    background-color: rgb(53, 15, 15);
+    color:rgb(233, 232, 232);
+    padding-top: 10vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home{
+    background-color: black;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}

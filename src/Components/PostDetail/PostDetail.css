@@ -1,0 +1,23 @@
+.postDetail{
+    background-color: rgb(59, 46, 63);
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.comment{
+    width: 200px;
+    height: 23px;
+    background-color: rgb(255, 255, 255);
+    padding: 3px 0 0 6px;
+    color: rgb(34, 50, 51);
+    margin-top: 40px;
+}
+.commentSection{
+    background-color: rgb(24, 46, 46);
+    display:flex;
+}
+.comments{
+    display: inline;
+    
+}
